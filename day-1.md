@@ -1,7 +1,8 @@
 # Day 1
 
 Problem: FizzBuzz
-leetcode link:
+
+leetcode link: https://leetcode.com/problems/fizz-buzz/
 
 ```js
 function fizzBuzz(n) {
