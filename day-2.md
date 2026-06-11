@@ -26,6 +26,12 @@ Output:
 5
 
 Algorithm:
+Greedy Algorithm
+-Iterating through array once
+-Creating minPrice and maxProfit variable
+-Checking if current day iterating on is lowest price currently
+
+-
 
 Python Solution:
 
