@@ -46,6 +46,6 @@ class Solution:
         return list(anagram_map.values())  #returning values of map, the list of lists showing anagrams grouped
         # note: the classic "map.values()" does not work in python, as it returns dictionary values, whereas this problem asks for List[List[strs]],
         # the solution: return the dictionary values, within a list()
-        # addtional note: anagram_map = defaultdict(list) can be used to automatically create an empty list if the key doesn't exist yet, removing the need to check for it's existence
+
 
 ```
