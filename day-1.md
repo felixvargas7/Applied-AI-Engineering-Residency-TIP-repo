@@ -27,7 +27,7 @@ Input: Integer
 Output: Array of strings
 
 Algorith:
-Array used to store results of each string depending on conditions
+Array used to store results of each string depending on conditions set, returing a specific string on if the current number is divisible by 15, 3, or 5
 
 Python Solution:
 
